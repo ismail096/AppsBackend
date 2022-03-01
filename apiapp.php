@@ -3,7 +3,7 @@
         {
             "Pl": "com.rtolasdsvfd.pldsvfbd",
             "inout": "true",
-            "upd": "no",
+            "upd": "true",
             "updInStOrSer": "S",
             "link": "https://play.google.com/store/apps/details?id=com.urlplay.olkwdfkkskefk",
             "One": "35455f41-c67f-4d51-9e8c-bea99ac19538",
