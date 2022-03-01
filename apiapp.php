@@ -1,7 +1,7 @@
 {
     "App": [
         {
-            "Pl": "com.rtolasdsvfd.pldsvfbdjj",
+            "Pl": "com.rtolasdsvfd.pldsvfbd",
             "inout": "true",
             "upd": "true",
             "updInStOrSer": "S",
