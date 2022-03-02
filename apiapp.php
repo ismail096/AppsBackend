@@ -3,7 +3,7 @@
         {
             "Pl": "com.rtolasdsvfd.pldsvfbd",
             "inout": "true",
-            "upd": "true",
+            "upd": "no",
             "updInStOrSer": "S",
             "link": "https://play.google.com/store/apps/details?id=net.mbc.shahid",
             "One": "35455f41-c67f-4d51-9e8c-bea99ac19538",
