@@ -2,6 +2,7 @@
   "LIVETV": [
     {
       "update": "now",
+      "AdsHere": "false",
       "UpdateInStoreOrServer": "Store",
       "linkAppDownload": "https://captainshoot.com/",
       "linkAppUpdate": "https://captainshoot.com/",
