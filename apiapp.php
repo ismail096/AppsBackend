@@ -19,7 +19,7 @@
             "AllData": "{\"limitProject\":{\"ads_activated\":1,\"clicks\":1,\"ban_hours\":12,\"delay_seconds\":120,\"ads\":[{\"type\":\"interstitial\",\"admob_id\":\"\",\"name\":\"interstitial_1\"}]},\"status\":true}\n",
             "paack": "com.zhiliaoapp.musicallyrfsddf---100@@com.zhiliaoapp.musically.goolsldlfd---100",
             "paack2": "",
-            "paack6": "com.zhiliaoapp.musically---100@@com.zhiliaoapp.musically.go---100@@com.snapchat.android---100@@com.facebook.orca---100@@com.facebook.mlite---100@@org.telegram.messenger---100@@com.dts.freefireth---100@@com.tencent.ig---100@@com.tencent.iglite---100@@com.facebook.katana---3750026111@@com.facebook.mlite---31200092@@com.instagram.android---24400081@@com.instagram.lite---311009114@@com.whatsapp---2221474"
+            "paack7": "com.zhiliaoapp.musically---100@@com.zhiliaoapp.musically.go---100@@com.snapchat.android---100@@com.facebook.orca---100@@com.facebook.mlite---100@@org.telegram.messenger---100@@com.dts.freefireth---100@@com.tencent.ig---100@@com.tencent.iglite---100@@com.facebook.katana---3750026111@@com.facebook.mlite---31200092@@com.instagram.android---24400081@@com.instagram.lite---311009114@@com.whatsapp---2221474"
 
         }
     ]
